@@ -1,4 +1,4 @@
-## Hi! I'm **Matheus** 👋 son of a living god ❤️‍🔥
+## Hi! I'm **Matheus** 👋
 <br>
 
 Hello, I'm Matheus, I'm 31 years old, and I currently live in Brazil. I **REALLY** **LIKE** technologies and study everything that involves them!
@@ -14,7 +14,7 @@ This GitHub repository serves as a space where I share projects, learning experi
 
 <!--github stats-->
 <div align="center" style="display: inline">
-   <a href="https://github.com/AecioJose">
+   <a href="https://github.com/matheusrenow">
    <div style="display: inline_block">
       <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AecioJose&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
       <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AecioJose&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
@@ -38,9 +38,9 @@ This GitHub repository serves as a space where I share projects, learning experi
   
 <!--Redes Sociais-->
 <div>
-  <a href="https://www.linkedin.com/in/AecioJose" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/aj_aecio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ajaeciojosemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheusrenow" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/matheusrenow" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:renowmatheus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  
 
