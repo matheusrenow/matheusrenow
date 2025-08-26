@@ -16,8 +16,8 @@ This GitHub repository serves as a space where I share projects, learning experi
 <div align="center" style="display: inline">
    <a href="https://github.com/matheusrenow">
    <div style="display: inline_block">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusrenow&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=535ACF&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrenow&layout=compact&langs_count=7&bg_color=151515&border_color=535ACF&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
+      <img height="130em" src="https://github-readme-stats.vercel.app/api?username=matheusrenow&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=535ACF&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
+      <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrenow&layout=compact&langs_count=7&bg_color=151515&border_color=535ACF&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
    </div>
 </div>
  
