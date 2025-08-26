@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matheusrenow
-- 👀 I’m interested in #python
-- 🌱 I’m currently learning #dataanalytics
-- 💞️ I’m looking to collaborate on #python
+- 👀 I’m interested in #Python
+- 🌱 I’m currently learning #DataScientist
+- 💞️ I’m looking to collaborate on #Python
 - 📫 How to reach me @matheusrenow
