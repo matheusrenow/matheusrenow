@@ -1,51 +1,16 @@
-## Hi! I'm **Matheus**📈
-<br>
+<h1 align="center">Matheus Renovato</h1>
+<p align="center"><strong>Idealizador e criador do Notifie</strong></p>
 
-Hello, I'm Matheus, I'm 31 years old, and I currently live in Brazil. I **REALLY** **LIKE** technologies and study everything that involves them!
+## Notifie
 
-- Studying to become the best Data Scientist📊
-- Python has become a passion✅
-- Extremely involved in learning!✏️
+**Atendimento e agenda pelo WhatsApp**
 
-This GitHub repository serves as a space where I share projects, learning experiences, and accomplishments throughout my journey. Please feel free to explore and follow my progress! 🚀🔥
+Criei o Notifie para ajudar negócios a organizar a rotina de atendimento. Pelo WhatsApp, o Notifie consulta horários e faz agendamentos. A equipe acompanha a agenda e assume as conversas quando é preciso, pelo painel web ou pelo app Android.
 
-##
-<br>
+## Programação, dados e inteligência artificial
 
-<!--github stats-->
-<div align="center" style="display: inline">
-   <a href="https://github.com/matheusrenow">
-   <div style="display: inline_block">
-      <img height="130em" src="https://github-readme-stats.vercel.app/api?username=matheusrenow&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=535ACF&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
-      <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrenow&layout=compact&langs_count=7&bg_color=151515&border_color=535ACF&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
-   </div>
-</div>
- 
-  
- <!--Imagem de linguagens-->
-<div style="display: inline_block"><br>
-  <img align="center" alt="AJ-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <!--Imagem EU--
-  <img align="right" alt="AJ-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
-</div>
-  
-  ##
-  
-<!--Redes Sociais-->
-<div>
-  <a href="https://www.linkedin.com/in/matheusrenow" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/matheusrenow" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:renowmatheus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
- 
+Estudo Ciência de Dados e gosto de programar em Python. Me interessa aplicar inteligência artificial a problemas do dia a dia, como entender o que um cliente está pedindo em uma conversa.
 
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheusrenow/matheusrenow/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheusrenow/matheusrenow/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/matheusrenow/matheusrenow/output/github-contribution-grid-snake.svg">
-</picture>
-  
-</div>
-<br><br><br><br>
-ㅤWelcome World!👓 <!-- <a href="https://xxx/aj_aecio" >My website</a> --> <!--Link para portfolio-->
+[LinkedIn](https://www.linkedin.com/in/matheusrenow/) · [Instagram](https://www.instagram.com/matheusrenow/)
